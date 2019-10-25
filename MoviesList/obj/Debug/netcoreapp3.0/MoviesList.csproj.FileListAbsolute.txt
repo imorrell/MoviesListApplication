@@ -1,0 +1,11 @@
+C:\Users\Prophesy\Documents\C#2019\MoviesList\MoviesList\bin\Debug\netcoreapp3.0\MoviesList.exe
+C:\Users\Prophesy\Documents\C#2019\MoviesList\MoviesList\bin\Debug\netcoreapp3.0\MoviesList.deps.json
+C:\Users\Prophesy\Documents\C#2019\MoviesList\MoviesList\bin\Debug\netcoreapp3.0\MoviesList.runtimeconfig.json
+C:\Users\Prophesy\Documents\C#2019\MoviesList\MoviesList\bin\Debug\netcoreapp3.0\MoviesList.runtimeconfig.dev.json
+C:\Users\Prophesy\Documents\C#2019\MoviesList\MoviesList\bin\Debug\netcoreapp3.0\MoviesList.dll
+C:\Users\Prophesy\Documents\C#2019\MoviesList\MoviesList\bin\Debug\netcoreapp3.0\MoviesList.pdb
+C:\Users\Prophesy\Documents\C#2019\MoviesList\MoviesList\obj\Debug\netcoreapp3.0\MoviesList.csprojAssemblyReference.cache
+C:\Users\Prophesy\Documents\C#2019\MoviesList\MoviesList\obj\Debug\netcoreapp3.0\MoviesList.AssemblyInfoInputs.cache
+C:\Users\Prophesy\Documents\C#2019\MoviesList\MoviesList\obj\Debug\netcoreapp3.0\MoviesList.AssemblyInfo.cs
+C:\Users\Prophesy\Documents\C#2019\MoviesList\MoviesList\obj\Debug\netcoreapp3.0\MoviesList.dll
+C:\Users\Prophesy\Documents\C#2019\MoviesList\MoviesList\obj\Debug\netcoreapp3.0\MoviesList.pdb
